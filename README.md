@@ -1,7 +1,5 @@
 ### Hola 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Start-up
 - 🌱 I’m currently learning front end technologies
 - 👯 I’m looking to collaborate on open source projects
