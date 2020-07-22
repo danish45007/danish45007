@@ -9,3 +9,6 @@
 - 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/danish-sharma-63623b14a/)
 - 😄 Pronouns: दानिश
 - ⚡ Fun fact: Did you know how many total programming languages? – it’s 698 and still counting.
+
+
+![Danish GitHub Stats](https://github-readme-stats.vercel.app/api?username=danish45007&show_icons=true&hide_border=true)
