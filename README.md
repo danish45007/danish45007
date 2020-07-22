@@ -1,7 +1,7 @@
 ## HOLA <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"></h2>
 <p align="centre"><img width=200px src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"></p>
 
-I'm an undergrad student from SRM University, Chennai completed my B.Tech in Electronics Engineering.I'm a ***MERN*** developer and ***Pythonista*** Also I'm a **Machine Learning** and **Data Science** enthusiast and love solving complex problems.
+I'm an undergrad student from SRM University, Chennai completed my B.Tech in Electronics Engineering. I'm a ***MERN*** developer and ***Pythonista*** Also I'm a **Machine Learning** and **Data Science** enthusiast and love solving complex problems.
 
 - 🔭 I’m currently working on a Startup
 - 🌱 I’m currently learning front end technologies
