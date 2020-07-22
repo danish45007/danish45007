@@ -14,3 +14,12 @@ I'm an undergrad student from SRM University, Chennai completed my B.Tech in Ele
 
 
 ![Danish GitHub Stats](https://github-readme-stats.vercel.app/api?username=danish45007&show_icons=true&hide_border=true)
+
+<a href="https://www.linkedin.com/in/danish-sharma-63623b14a/">
+    <img align="left" alt="Utkarsh Chaurasia | Linkedin" width="24px" src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/Linkedin.svg" />
+  </a>
+  
+  <a href="https://medium.com/@danish45007">
+    <img align="left" alt="Utkarsh Chaurasia | Medium" width="24px" src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/medium.svg" />
+  </a>
+  
