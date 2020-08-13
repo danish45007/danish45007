@@ -13,7 +13,7 @@ I'm an undergrad student from SRM University, Chennai completed my bachelor's in
 - ⚡ Fun fact: Did you know how many total programming languages? – it’s 698 and still counting.
 
 
-![Danish GitHub Stats](https://github-readme-stats.vercel.app/api?username=danish45007)](https://github.com/danish45007/github-readme-stats)
+![Danish's github stats](https://github-readme-stats.vercel.app/api?username=danish45007&show_icons=true&theme=radical)
 
 <a href="https://www.linkedin.com/in/danish-sharma-63623b14a/">
     <img align="left" alt="Danish Sharma | Linkedin" width="24px" src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/Linkedin.svg" />
