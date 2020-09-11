@@ -3,8 +3,8 @@
 
 I'm an undergrad student from SRM University, Chennai completed my bachelor's in Electronics Engineering and am a self taught developer. I'm a ***MERN*** developer and ***Pythonista*** Also I'm a **Machine Learning** and **Data Science** enthusiast and love solving complex problems.
 
-- 🔭 I’m currently working on a Micro Startup
-- 🌱 I’m currently learning https://www.fastify.io/
+- 🔭 I’m currently a Software Engineer at Onsurity
+- 🌱 I’m currently learning https://www.fastify.io/ https://handlebarsjs.com/
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with AWS SAM CLI
 - 💬 Ask me about #Backend technologies #Python #JS #Go 
