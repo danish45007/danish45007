@@ -27,8 +27,8 @@ I'm an undergrad student from SRM University, Chennai completed my bachelor's in
   </a>
   
   <a href="https://hub.docker.com/u/danish5007">
-    <img align="left" alt="Danish Sharma | DockerHub" width="24px" src="https://www.docker.com/sites/default/files/d8/2019-07/horizontal-logo-monochromatic-white.png" />
-/a>
+    <img align="left" alt="Danish Sharma | DockerHub" width="24px" src="https://www.docker.com/sites/default/files/d8/2019-07/Docker-Logo-White-RGB_Vertical.png" />
+  </a>
   
 <a href="https://medium.com/@danish45007">
     <img align="left" alt="Danish Sharma | Medium" width="24px" src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/medium.svg" />
