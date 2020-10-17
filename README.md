@@ -18,15 +18,15 @@ I'm an undergrad student from SRM University, Chennai completed my bachelor's in
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danish45007&show_icons=true&theme=radical)](https://github.com/danish45007)
 
+<a href="https://gitlab.com/danish45007">
+    <img align="left" alt="Danish Sharma | Medium" width="24px" src="https://about.gitlab.com/images/press/logo/preview/gitlab-logo-white-stacked-preview.png" />
+  </a>
+
 <a href="https://www.linkedin.com/in/danish-sharma-63623b14a/">
     <img align="left" alt="Danish Sharma | Linkedin" width="24px" src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/Linkedin.svg" />
   </a>
   
-  <a href="https://medium.com/@danish45007">
+<a href="https://medium.com/@danish45007">
     <img align="left" alt="Danish Sharma | Medium" width="24px" src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/medium.svg" />
-  </a>
-  
-   <a href="https://gitlab.com/danish45007">
-    <img align="left" alt="Danish Sharma | Medium" width="24px" src="https://about.gitlab.com/images/press/logo/preview/gitlab-logo-white-stacked-preview.png" />
-  </a>
+</a>
   
