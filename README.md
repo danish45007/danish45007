@@ -7,7 +7,7 @@ I'm an undergrad student from SRM University, Chennai completed my bachelor's in
 - 🌱 I’m currently learning https://www.fastify.io/ https://handlebarsjs.com/
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with AWS SAM CLI
-- 💬 Ask me about #Backend technologies #Python #JS #Go 
+- 💬 Ask me about #Backend technologies #Python #JS #Go #React.js #Redux #AWS #ML
 - 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/danish-sharma-63623b14a/)
 - 😄 Pronouns: दानिश
 - ⚡ Fun fact: Did you know how many total programming languages? – it’s 698 and still counting.
