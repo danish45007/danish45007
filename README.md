@@ -16,7 +16,7 @@ I'm an undergrad student from SRM University, Chennai completed my bachelor's in
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=danish45007&show_icons=true&line_height=24&theme=dark&count_private=true&include_all_commits=true&custom_title=%23%20GitHub%20Stats%20%E2%9C%85" />
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danish45007&theme=dark&count_private=true&layout=compact&langs_count=10&custom_title=%23%20Most%20Used%20Languages%20%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB&card_width=445" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danish45007&theme=dark&layout=compact&langs_count=10&custom_title=%23%20Most%20Used%20Languages%20%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB&card_width=445" />
 
 <a href="https://gitlab.com/danish45007">
     <img align="left" alt="Danish Sharma | Medium" width="26px" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" />
