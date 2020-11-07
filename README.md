@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=danish45007&color=green)
 ## HOLA CODER'S <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"></h2>
 <p align="centre"><img width=300px src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"></p>
 
