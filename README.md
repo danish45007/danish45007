@@ -15,7 +15,7 @@ I'm an undergrad student from SRM University, Chennai completed my bachelor's in
 
 📊 **This week I spent my time on**
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=danish4500&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=danish45007&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=danish45007&show_icons=true&line_height=24&theme=dark&count_private=true&include_all_commits=true&custom_title=%23%20GitHub%20Stats%20%E2%9C%85" />
 
