@@ -13,6 +13,9 @@ I'm an undergrad student from SRM University, Chennai completed my bachelor's in
 - 😄 Pronounce: दानिश
 - ⚡ Fun fact: Did you know how many total programming languages? – it’s 698 and still counting.
 
+📊 **This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=danish45007&theme=dark&hide_title=true&hide_border=true&langs_count=5)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=danish45007&show_icons=true&line_height=24&theme=dark&count_private=true&include_all_commits=true&custom_title=%23%20GitHub%20Stats%20%E2%9C%85" />
 
